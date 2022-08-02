@@ -13,8 +13,8 @@ public class Equal {
 		String a = "hello world";
 		String b = new String("hello world");
 		
-		System.out.println( a == b);
-		System.out.println(a.equals(b));
+		System.out.println( a == b); //false가 나온다.
+		System.out.println(a.equals(b)); 
 	}
 
 }

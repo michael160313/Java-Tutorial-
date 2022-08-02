@@ -21,5 +21,8 @@
 		<item key="sortItemState" value="false"/>
 	</section>
 	<section name="GitCommitMessageComponent">
+		<list key="/Users/michael/Desktop/eclipse-workspace/Test01/.git">
+			<item value="empty"/>
+		</list>
 	</section>
 </section>
